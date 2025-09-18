@@ -1,0 +1,57 @@
+Programação e Design Web
+HTML & CSS Tags
+
+HTML
+
+<head> Consiste na parte superior do site, envolvendo Titulo, links, entre outros.
+<title> Título
+<link> Cria um link, onde faz que seu código pode interagir com outras linhas de código.
+
+<body> Trata-se do corpo do site, significa basicamente que tudo que é visual em um site(Front-end), é inserido no body, tendo suas modificações no próprio html e no CSS.
+<h1> até <h6> Tamanho fonte
+<p> Paragrafo
+<img> Tag utilizada para inserir uma imagem ao código.
+<header> Cabeçalho
+<ul> Lista não ordenada
+<ol> Lista ordenada
+<li> Elemento Lista
+<a>(anchor) Cria um link, que faz com que seu código possa interagir tanto com códigos internos, tanto códigos externos.
+<section> Seção utilizada para separação de blocos dentro do código facilitando a organização
+<div> Seção genérica utilizada também para a separação de blocos do código, porem mais utilizado quando tem a intenção de agrupar itens que não tem uma ligação semântica entre si.
+<nav> especificamente abre uma seção propria para navegação, contendo links e afins para a interação do usuario para com o site.
+<summary> Um resumo ou título de um bloco de conteúdo que pode ser expandido/recolhido.
+<details> Uma seção interativa que pode ser aberta ou fechado pelo usuário.
+
+
+CSS
+
+width - Largura
+height - Altura
+margin - Margem (top, left, right, botton)
+text-align - Alinhar texto
+word-spacing - Espaçamento entre as palavras
+letter-spacing - Espaçamento entre os caracteres
+text-shadow - Adiciona Sombra ao texto
+contente - Conteúdo 
+
+border - Borda
+border-width - espessura da borda
+border-style - estilo da borda
+border-color - cor da borda
+border-radius - arredondamento dos cantos
+
+padding - Preenchimento
+
+display - Se trata da forma que o html vai se comportar em relação aos outros elementos
+block - ocupa linha toda
+inline - ocupa só o conteúdo
+inline-block - mistura dos dois
+none - some da tela
+flex - layout flexível
+grid - layout em grade
+
+z-index - propriedade que denomina a sobreposição dos elementos da pagina, em outras palavras, quem fica na frente ou atras da pagina.
+
+transition - cria animações suaves quando algum estilo de um elemento muda.
+
+url('https://picsum.photos/1920/1080?tech&dark') - url utilizada para que sejam implementadas fotos especificas que não se repetem a cada vez que o site for aberto.
